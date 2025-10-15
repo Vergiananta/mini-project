@@ -1,0 +1,9 @@
+.env
+.idea
+venv/
+.venv/
+__pycache__
+train.log
+train.txt
+train_clean.txt
+models/
