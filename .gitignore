@@ -6,4 +6,4 @@ __pycache__
 train.log
 train.txt
 train_clean.txt
-models/
+models/gpt2_mental_health_ft
