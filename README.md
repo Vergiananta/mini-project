@@ -1,13 +1,13 @@
 ## Steps for Running Mental Health Consultation System with Gen AI
 
-### 1. Installing
+#### 1. Installing
 ```shell
   pip install -r requirements.txt
 ```
+#### 2. Create folder "models" in base directory
+#### 3. Insert Model mental health to folder models
 
-### 2. Insert Model mental health to folder models
-
-### 3. Running with uvicorn
+#### 4. Running with uvicorn
 ```shell
   uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 ```
